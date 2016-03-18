@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicDisplayOfMeasuredValues", "GraphicDisplayOfMeasuredValues\GraphicDisplayOfMeasuredValues.csproj", "{AB3EBF3B-6F72-4319-A835-9193124FC253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{E2EA3C0C-1C9C-4DFA-A3B7-F23C0BD3A3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3EBF3B-6F72-4319-A835-9193124FC253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3EBF3B-6F72-4319-A835-9193124FC253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3EBF3B-6F72-4319-A835-9193124FC253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3EBF3B-6F72-4319-A835-9193124FC253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EA3C0C-1C9C-4DFA-A3B7-F23C0BD3A3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EA3C0C-1C9C-4DFA-A3B7-F23C0BD3A3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EA3C0C-1C9C-4DFA-A3B7-F23C0BD3A3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EA3C0C-1C9C-4DFA-A3B7-F23C0BD3A3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
